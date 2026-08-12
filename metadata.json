@@ -1,0 +1,6 @@
+{
+  "name": "Media Toolbox",
+  "description": "Minimalist iOS-style media file processing tools with fluid animations and a glassmorphism aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
